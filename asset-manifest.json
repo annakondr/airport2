@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/airport2/static/css/main.42ad8071.chunk.css",
+    "main.js": "/airport2/static/js/main.6e4407d2.chunk.js",
+    "main.js.map": "/airport2/static/js/main.6e4407d2.chunk.js.map",
+    "runtime~main.js": "/airport2/static/js/runtime~main.75466b72.js",
+    "runtime~main.js.map": "/airport2/static/js/runtime~main.75466b72.js.map",
+    "static/js/2.27e9ad4f.chunk.js": "/airport2/static/js/2.27e9ad4f.chunk.js",
+    "static/js/2.27e9ad4f.chunk.js.map": "/airport2/static/js/2.27e9ad4f.chunk.js.map",
+    "index.html": "/airport2/index.html",
+    "precache-manifest.5813e5c73f8dd297978d113f8a96bfc6.js": "/airport2/precache-manifest.5813e5c73f8dd297978d113f8a96bfc6.js",
+    "service-worker.js": "/airport2/service-worker.js",
+    "static/css/main.42ad8071.chunk.css.map": "/airport2/static/css/main.42ad8071.chunk.css.map"
+  }
+}
